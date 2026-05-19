@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///Users/apple/Library/Mobile%20Documents/com~apple~CloudDocs/Clase/DAW/2%C2%BA/Practicas.%20CodeNode/codeNode-Semana8/app/page.js"],"sourcesContent":["import Image from \"next/image\";\n\nexport default function Home() {\n  return (\n    <div>\n      <h1 className=\"text-3xl font-bold\">¡Hola, soy Claudia!</h1>\n      <p> Estudiante de desarrollo de aplicaciones web.</p>\n    </div>\n  );\n}"],"names":["Home","className"],"mappings":";;;;;AAAA;;;AAEe,SAASA;IACtB,qBACE,6WAAC;;0BACC,6WAAC;gBAAGC,WAAU;0BAAqB;;;;;;0BACnC,6WAAC;0BAAE;;;;;;;;;;;;AAGT"}}]
-}
